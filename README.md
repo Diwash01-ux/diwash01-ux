@@ -7,6 +7,18 @@
   </a>
 </p>---
 
+<h1 align="center">Hi 👋, I'm Diwash Chapagain</h1>
+
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=600&lines=Computer+Engineering+Student;Aspiring+Software+Developer;Exploring+UI%2FUX+Design;Building+Projects+One+Step+at+a+Time" alt="Typing animation" />
+</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Web%20Development-blue?style=for-the-badge" alt="Web Development">
+  <img src="https://img.shields.io/badge/Learning-Python-yellow?style=for-the-badge&logo=python&logoColor=black" alt="Python">
+  <img src="https://img.shields.io/badge/Interest-UI%2FUX-purple?style=for-the-badge" alt="UI UX">
+</p> 
+
 👨‍💻 About Me
 
 - 🎓 Computer Engineering student at Seoul Theological University.
